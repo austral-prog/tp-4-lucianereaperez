@@ -14,7 +14,7 @@ def line():
     print(f"El coeficiente X2 de su ecuación de la recta es: {coefx2}")
     print("")
     print("Para la siguiente ecuación:")
-    print("\tY = {coefA}X + {coefB}")
+    print(f"\tY = {coefA}X + {coefB}")
     print("")
     print("Dados los siguientes puntos:")
     print(f"\tP1 ({coefx1}, {y1})")
